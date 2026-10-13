@@ -35,5 +35,9 @@ Resource: What is personal data? - Information Commissioner’s Office - https:/
 
 
 ## Misconception in My Track
+A common misconception is that prompt injection only happens when a user directly types malicious instructions into an AI assistant. In reality, indirect prompt injection can also occur when malicious instructions are hidden in external content, such as webpages or documents that the system processes. This means that even ordinary-looking content may contain instructions intended to manipulate the model. Treating retrieved content as untrusted is therefore important when designing secure AI applications.
+
 
 ## Open Question
+How can an AI assistant distinguish legitimate information from hidden malicious instructions in external content while still providing useful answers?
+
