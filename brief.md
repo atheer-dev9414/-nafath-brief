@@ -17,10 +17,22 @@ Apple’s App Transport Security (ATS) improves network security by requiring se
 
 Resource: Preventing Insecure Network Connections - https://developer.apple.com/documentation/security/preventing-insecure-network-connections
 ## Networking
+IPv4 and IPv6 are two versions of the Internet Protocol used to identify devices and route data across networks. IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses, providing a much larger pool of unique addresses. As the number of connected phones, computers, smart appliances, and other devices increases, IPv6 helps meet the growing demand for IP addresses and supports the continued expansion of the Internet.
+
+Resource: IPv6 FAQ - Internet Society - https://www.internetsociety.org/deploy360/ipv6/faq/
+
+
+
 
 ## Cybersecurity
+Prompt injection occurs when malicious instructions attempt to manipulate an AI system into ignoring its intended rules. Direct prompt injection comes from instructions entered by a user, while indirect prompt injection may be hidden in external content, such as a document or webpage processed by the system. Risk can be reduced by treating retrieved content as untrusted, limiting the AI’s access to sensitive data and tools, and validating actions before they are carried out.
 
+Resource: OWASP Top 10 for Large Language Model Applications - Prompt Injection - https://genai.owasp.org/llmrisk/llm01-prompt-injection/
 ## Data
+Anonymization and pseudonymization are methods used to reduce the risk of identifying people from data. Anonymization removes identifying information so that individuals can no longer be identified by means reasonably likely to be used. Pseudonymization replaces direct identifiers with codes or alternative values, but additional information may still allow a person to be identified. Under the GDPR, truly anonymized data falls outside its scope, while pseudonymized personal data generally remains protected.
+
+Resource: What is personal data? - Information Commissioner’s Office - https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/personal-information-what-is-it/what-is-personal-data/
+
 
 ## Misconception in My Track
 
